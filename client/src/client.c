@@ -42,7 +42,7 @@ int main(void)
 
 	/* ---------------- LEER DE CONSOLA ---------------- */
 	//int num;
-	leer_consola(logger);
+	//leer_consola(logger);
 	/*---------------------------------------------------PARTE 3-------------------------------------------------------------*/
 
 	// ADVERTENCIA: Antes de continuar, tenemos que asegurarnos que el servidor esté corriendo para poder conectarnos a él
